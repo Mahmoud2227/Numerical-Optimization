@@ -11,7 +11,7 @@ This project aims to compare different optimization algorithms commonly used in 
 
 ## Deployment
 
-The web application based on this project is deployed and accessible at [Optimization Algorithms Comparison](https://example.com).
+The web application based on this project is deployed and accessible at [Optimization Algorithms Comparison](https://numerical-optimization.onrender.com/).
 
 ![Web App Screenshot](./assets/screenshot.jpeg)
 
